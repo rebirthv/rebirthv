@@ -4,6 +4,7 @@
 - 🏛️I'm in Senior HighSchool Home-Schooling 
 - I'm currently learning Data Science
   [![](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikitlearn&style=flat)]()
+      [![](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&style=flat)]()
  [![](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&style=flat)]()
   [![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&style=flat)]() 
 - Maintaining FullStack Development skills
